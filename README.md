@@ -1,2 +1,1 @@
-# FinalProject2_Codacademy
-Final Project 2 ~ Codacademy 
+# Hacktiv8-FinalProject-2
